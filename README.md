@@ -1,5 +1,5 @@
 # Hola, soy Indira Franchi
-#### Me gradué de **_Ingeniero de Telecomunicaciones_**, me encanta la tecnología; es por ello que siempre estoy en continuo aprendizaje. Tengo conocimientos en _HTML, CSS, Python y ciberseguridad_. Actualmente estoy formándome como desarrollador Full Stack.
+#### Me gradué de **_Ingeniero de Telecomunicaciones_**, me encanta la tecnología; es por ello que siempre estoy en continuo aprendizaje. Tengo conocimientos en _HTML, CSS y Python_. Actualmente estoy formándome como desarrollador Full Stack.
 ---
 
 ### 💻 Competencias
@@ -27,7 +27,7 @@
 ---
 
 ### 🌏 Idiomas
-- Italiano **A2 en curso**
+- Italiano **A2 _en curso_**
 - Inglés **B1**
 - Español **lengua materna**
 ---
@@ -39,7 +39,7 @@
 ---
 
 ### 🏆 Logros académicos
-- **Mención honorífica y publicación por el trabajo especial de grado.** expedida por la Escuela de Telecomunicaciones de la Facultad de Ingeniería de la Universidad de Carabobo.
+- **Mención honorífica y mención publicación por el trabajo especial de grado,** expedidas por la Escuela de Telecomunicaciones de la Facultad de Ingeniería de la Universidad de Carabobo.
 ---
 
 ### 🎓 Formación académica
