@@ -1,6 +1,6 @@
 # Hi, I'm Indira Franchi
 
-My passion for technology is a fundamental part of who I am and as a result, I graduated as a Telecommunications Engineer. During my career I faced great challenges that helped me to acquire research and problem solving skills. One of them was my undergraduate thesis, where I developed a program capable of obtaining radar pseudo-images of the ENVISAT satellite using python and pyQt; a project that also had the honor of appearing in publications of the IEEE Latin America Transactions magazine.
+My passion for technology is a fundamental part of who I am and as a result, I graduated as a Telecommunications Engineer. During my career I faced great challenges that helped me to acquire research and problem solving skills. One of them was my undergraduate thesis, where I developed a program capable of obtaining radar pseudo-images of the ENVISAT satellite using python and PyQt; a project that also had the honor of appearing in publications of the IEEE Latin America Transactions magazine.
 
 I consider myself very inquisitive, I like to learn new things; which has driven me to be a self-taught person. I have taken several courses from satellite communications, radio links and networks to web programming, prompt engineering and cybersecurity. 
 
